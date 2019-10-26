@@ -7,6 +7,6 @@ output: "pahnaplsiigyir"
 
 =>
 
-p   a   h   n                                                                                                                     
-a p l s i i g                                                                                                   
-y   i   r
+row 1: p   a   h   n                                                                                                                     
+row 2: a p l s i i g                                                                                                   
+row 3: y   i   r
