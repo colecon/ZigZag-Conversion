@@ -7,6 +7,6 @@ output: "pahnaplsiigyir"
 
 =>
 
-p   a   h   n
+p   a   h   n /n
 a p l s i i g
 y   i   r
